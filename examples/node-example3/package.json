@@ -1,0 +1,8 @@
+{
+  "name": "caution-node-demo",
+  "version": "1.0.0",
+  "description": "Caution example: jsonwebtoken strictness change",
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  }
+}
